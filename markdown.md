@@ -54,7 +54,7 @@ code
 <a href="網址" target="_blank">連結標題</a>
 ```
 
-* 方法二、Markdown 寫法
+* Markdown 寫法
 
 ```markdown
 [連結標題](網址)
@@ -77,3 +77,13 @@ code
 ```markdown
 ---
 ```
+
+
+<br/>
+<hr/>
+
+##### 來源：
+
+<a href="http://anndo-blog.logdown.com/" target="_blank"> Anndo </a>
+
+**如果你覺得教程對你有幫助，希望你能至<a href="https://fullstack.xinshengdaxue.com/works/558" target="_blank">我們的作品 J & A SELECT</a>投下寶貴的一票！你的投票，代表的是對好作品、好教程的支持與鼓勵，也會成為我們持續分享的動力。**
