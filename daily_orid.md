@@ -52,7 +52,8 @@
 
 <br/>
 <hr/>
-模板來源：Anndo
+模板來源：
+* <a href="http://anndo-blog.logdown.com/" target="_blank"> Anndo </a>
 
 模板使用範例：
 * <a href="http://anndo-blog.logdown.com/posts/1925573" target="_blank"> 20170605 全棧營ORID </a>
