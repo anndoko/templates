@@ -17,7 +17,7 @@
 
 ## Step 2. 利用 [Raw] 查看模板的 Markdown 語法。
 
-![](https://ws3.sinaimg.cn/large/006tNbRwgy1fgfck4bav6j31jg0vgjwq.jpg)
+![](https://ws3.sinaimg.cn/large/006tNbRwgy1fgg79dq6alj31jg0vgqao.jpg)
 
 </br>
 
