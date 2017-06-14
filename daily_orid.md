@@ -61,5 +61,3 @@
 
 * <a href="http://anndo-blog.logdown.com/posts/1925573" target="_blank"> 20170605 全棧營ORID </a>
 * <a href="http://anndo-blog.logdown.com/posts/1930960" target="_blank"> 20170608 全棧營ORID </a>
-
-**如果你覺得教程對你有幫助，希望你能至<a href="https://fullstack.xinshengdaxue.com/works/558" target="_blank">我們的作品 J & A SELECT</a>投下寶貴的一票！你的投票，代表的是對好作品、好教程的支持與鼓勵，也會成為我們持續分享的動力。**
